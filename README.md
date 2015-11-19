@@ -1,5 +1,7 @@
 # Unity-UI-Julius-Integration
-This is a small Unity 3D package which adds a voice-control functionarity:
+This is a small Unity 3D package which adds a voice-control functionarity.
+
+Its stand-alone unity package is available from: https://github.com/YutaItoh/Unity-UI-Julius-Integration/releases/tag/v1.0
 
 A UI button that can be "pressed" by speaking out a predefined command:<br>
 ![home_screen](https://cloud.githubusercontent.com/assets/7195124/11270962/4c5cecb8-8ec3-11e5-9a3e-4b110f2e6d67.png)<br>
