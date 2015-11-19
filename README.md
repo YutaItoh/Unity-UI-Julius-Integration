@@ -36,6 +36,7 @@ The basic structure of the implementation and dataflow are as follows:
 In Assets\julius\core\grammar, you can find
 - sample.voca
 - sample.grammar
+
 They determine what sentences our Julius server accepts, i.e., only sentences matches to a pattern defined the files can be set to the Unity buttun prefab.
 See a VoxForge tutorial to lean how to edit the files:
 http://www.voxforge.org/home/dev/acousticmodels/linux/create/htkjulius/how-to/data-prep/step-1
