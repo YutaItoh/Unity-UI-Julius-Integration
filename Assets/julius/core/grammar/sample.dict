@@ -1,0 +1,65 @@
+0	[<s>]	sil
+1	[</s>]	sil
+2	[PHONE]	f ow n
+2	[CALL]	k ao l
+3	[DIAL]	d ay ah l
+4	[COMMAND]	k ah m ae n d
+5	[NEXT]	n eh k s t
+5	[BACK]	b ae k
+5	[HOME]	hh ow m
+5	[REPEAT]	r ih p iy t
+5	[FORWARD]	f ao r w er d
+5	[STOP]	s t aa p
+6	[GO]	g ow
+6	[HAVE]	hh ae v
+6	[TAKE]	t ey k
+6	[MAKE]	m ey k
+6	[PUT]	p uh t
+7	[ABOUT]	ah b aw t
+7	[ABOVE]	ah b ah v
+7	[ACROSS]	ah k r ao s
+7	[AFTER]	ae f t er
+7	[AGO]	ah g ow
+7	[AT]	ae t
+7	[BEFORE]	b ih f ao r
+7	[BELOW]	b ih l ow
+7	[BESIDE]	b ih s ay d
+7	[BESIDE(2)]	b iy s ay d
+7	[BY]	b ay
+7	[FOR]	f ao r
+7	[FROM]	f r ah m
+7	[IN]	ih n
+7	[INTO]	ih n t uw
+7	[UNDER]	ah n d er
+7	[OF]	ah v
+7	[OFF]	ao f
+7	[ON]	aa n
+7	[ONTO]	aa n t uw
+7	[ONTO(2)]	ao n t uw
+7	[OVER]	ow v er
+7	[PAST]	p ae s t
+7	[SINCE]	s ih n s
+7	[THROUGH]	th r uw
+7	[TILL]	t ih l
+7	[TO]	t uw
+7	[TOWARDS]	t ah w ao r d z
+7	[TOWARDS(2)]	t ao r d z
+7	[UNTIL]	ah n t ih l
+8	[STEVE]	s t iy v
+8	[YOUNG]	y ah ng
+8	[BOB]	b aa b
+8	[JOHNSTON]	jh aa n s t ah n
+8	[JOHN]	jh aa n
+8	[JORDAN]	jh ao r d ah n
+8	[JOE]	jh ow
+9	[FIVE]	f ay v
+9	[FOUR]	f ao r
+9	[NINE]	n ay n
+9	[EIGHT]	ey t
+9	[OH]	ow
+9	[ONE]	w ah n
+9	[SEVEN]	s eh v ah n
+9	[SIX]	s ih k s
+9	[THREE]	th r iy
+9	[TWO]	t uw
+9	[ZERO]	z iy r ow

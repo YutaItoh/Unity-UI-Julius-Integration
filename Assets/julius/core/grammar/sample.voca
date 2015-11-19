@@ -1,0 +1,86 @@
+% NS_B
+<s>        sil
+
+% NS_E
+</s>        sil
+
+% CALL
+PHONE        f ow n
+CALL        k ao l
+
+% DIAL
+DIAL        d ay ah l
+
+% COMMAND
+COMMAND     k ah m ae n d
+
+% OPERATION
+NEXT       n eh k s t
+BACK       b ae k
+HOME 	   hh ow m
+REPEAT	   r ih p iy t
+FORWARD    f ao r w er d
+STOP	   s t aa p
+
+% VERB
+GO         g ow 
+HAVE       hh ae v
+TAKE       t ey k
+MAKE       m ey k
+PUT        p uh t
+
+% PREPOSITION
+ABOUT     ah b aw t
+ABOVE     ah b ah v
+ACROSS    ah k r ao s
+AFTER     ae f t er
+AGO       ah g ow
+AT        ae t
+BEFORE    b ih f ao r
+BELOW     b ih l ow
+BESIDE    b ih s ay d
+BESIDE(2) b iy s ay d
+BY        b ay
+FOR       f ao r
+FROM      f r ah m
+IN        ih n
+INTO      ih n t uw
+UNDER     ah n d er
+OF        ah v
+OFF       ao f
+ON        aa n
+ONTO      aa n t uw
+ONTO(2)   ao n t uw
+OVER      ow v er
+PAST      p ae s t
+SINCE     s ih n s
+THROUGH   th r uw
+TILL      t ih l
+TO        t uw
+TOWARDS    t ah w ao r d z
+TOWARDS(2) t ao r d z
+UNTIL     ah n t ih l
+
+
+% NAME
+STEVE	   s t iy v 
+YOUNG      y ah ng
+BOB        b aa b
+JOHNSTON   jh aa n s t ah n
+JOHN       jh aa n
+JORDAN     jh ao r d ah n
+JOE        jh ow
+
+% DIGIT
+FIVE       f ay v
+FOUR       f ao r
+NINE       n ay n
+EIGHT      ey t
+OH         ow
+ONE        w ah n
+SEVEN      s eh v ah n
+SIX        s ih k s
+THREE      th r iy
+TWO        t uw
+ZERO       z iy r ow
+
